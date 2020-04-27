@@ -1,0 +1,19 @@
+.user-component-container {
+    max-width:      30rem;
+    margin:         3rem auto;
+    display:        flex;
+    flex-direction: column;
+    font-size:      24px;
+    line-height:    3rem;
+}
+
+.user-admin-component-header {
+    text-align:    center;
+    font-weight:   bolder;
+    font-size:     larger;
+    margin-bottom: 2.5rem;
+}
+
+.property {
+    font-weight: bolder;
+}

@@ -1,0 +1,25 @@
+.confirm-popup {
+    background:    #1C191C;
+    border-radius: 15px;
+    position:      fixed;
+    z-index:       1;
+    padding:       50px;
+    overflow:      auto;
+    border:        1px solid #747A76;
+    top:           50%;
+    left:          50%;
+    transform:     translate(-50%, -50%);
+}
+
+.popup-button-container {
+    min-height:      80px;
+    padding:         10px;
+    display:         flex;
+    flex-wrap:       wrap;
+    justify-content: space-evenly;
+}
+
+.popup-button-container button {
+    margin-top: 20px;
+    min-width:  110px;
+}

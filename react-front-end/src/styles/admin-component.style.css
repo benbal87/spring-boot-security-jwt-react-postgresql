@@ -1,0 +1,16 @@
+.admin-container {
+    margin:         3rem auto;
+    max-width:      70rem;
+    text-align:     center;
+    display:        flex;
+    flex-direction: column;
+    font-size:      20px;
+}
+
+.admin-container span {
+    text-align: center;
+}
+
+.chart {
+    margin: 2rem auto;
+}

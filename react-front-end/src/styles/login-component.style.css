@@ -1,0 +1,33 @@
+.log-reg-container {
+    text-align: center;
+    margin:     2.5rem 0;
+}
+
+.log-reg-container * {
+    font-size: 20px;
+}
+
+.log-reg-container .log-reg-input-container {
+    min-height: 6.5rem;
+}
+
+.log-reg-container .log-reg-input {
+    text-align:    center;
+    margin-top:    0.7rem;
+    border-radius: 5px;
+    background:    #BBA9BB;
+    color:         black;
+    padding:       5px;
+}
+
+.log-reg-container button {
+    background-color: #263238;
+    border:           none;
+    padding:          17px;
+    border-radius:    5px;
+}
+
+.log-reg-container button:hover {
+    border: 1px solid #BBA9BB;
+    color:  #E7DAE7;
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "apiEndpoints": {
+      "host": "http://localhost:8080",
+      "apiRoot": "/springbootapi",
+      "registration": "/auth/registration",
+      "login": "/auth/login",
+      "getPublicContent": "/app/public",
+      "getUserDetails": "/app/user",
+      "getAdminData": "/app/admin"
+    }
+  }
+]

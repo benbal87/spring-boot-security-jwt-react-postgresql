@@ -1,0 +1,7 @@
+export enum PopupType {
+
+  REGISTRATION_CONFIRMATION,
+
+  REGISTRATION_ERROR
+
+}
