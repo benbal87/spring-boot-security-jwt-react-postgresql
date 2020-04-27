@@ -1,9 +1,7 @@
 package com.benbal.springbootsecurityjwt.service.component;
 
-import java.io.File;
 import java.time.LocalDate;
 import java.util.Comparator;
-import java.util.Date;
 
 import com.benbal.springbootsecurityjwt.service.model.UserStatisticsDTO;
 

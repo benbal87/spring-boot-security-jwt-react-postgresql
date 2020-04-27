@@ -11,9 +11,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.benbal.springbootsecurityjwt.service.model.LoginResponse;
 import com.benbal.springbootsecurityjwt.service.component.UserService;
 import com.benbal.springbootsecurityjwt.service.model.LoginRequest;
+import com.benbal.springbootsecurityjwt.service.model.LoginResponse;
 import com.benbal.springbootsecurityjwt.service.model.RegistrationRequest;
 import com.benbal.springbootsecurityjwt.service.model.UserDTO;
 
